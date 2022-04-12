@@ -2,7 +2,6 @@ body {
     height: 100vh;
     width: 100vw;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     background-image: url(Fondo-body.jpg);
@@ -20,6 +19,7 @@ body {
 h1{
     font-family: Arial;
     color: aliceblue;
+    text-align: center;
 }
 
 .Contenedor1 {
